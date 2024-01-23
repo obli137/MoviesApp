@@ -1,6 +1,6 @@
 # peliculasapp
 
-A new Flutter project.
+A new Flutter project using MVVM Architecture to connect with Movies API. 
 
 ## Getting Started
 
